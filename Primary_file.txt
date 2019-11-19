@@ -3,5 +3,9 @@ Long title
 This is the first file that I added to my project.
 It comes before all the other files.
 I am the new feature.!!!! 3639
+<<<<<<< Updated upstream
 1245\\23.23665
 
+=======
+Hello World!
+>>>>>>> Stashed changes
